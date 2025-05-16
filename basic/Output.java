@@ -14,6 +14,15 @@ public  class  Output {
                   hello world 
          */
 
+
+         //   Question print z 
+
+        System.out.println("*****");
+        System.out.println("   * ");
+        System.out.println("  *  ");
+        System.out.println(" *   ");
+        System.out.println("*****");
+
             
 
 
